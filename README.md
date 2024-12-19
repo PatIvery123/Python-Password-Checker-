@@ -11,7 +11,7 @@ Developed a Python-based Password Strength Checker to evaluate password security
 4. **Check for Common Patterns**: Verified passwords against known weak patterns (e.g., "123456").
 5. **Create Evaluation Function**: Built a function to assess password strength based on the criteria.
 6. **Test and Validate**: Run tests on various passwords to ensure the checker functions correctly.
-7. **Enhance (Optional)**: Added entropy calculation and extended pattern checks for additional security.
+
 
 
 
